@@ -1,6 +1,6 @@
 ## Supporting System
 
-Track customer tickets and issues, maintain server levels and track response and resolutions
+Track customer  issues, maintain server levels and track response and resolutions
 
 #### License
 
